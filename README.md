@@ -105,7 +105,7 @@ The corresponding predicted revenue points with 95% confidence interval (`95CI`)
     pages = "2954–2963",
     numpages = "10",
     doi = "10.1145/3511808.3557110",
-    isbn = "9781450392365"
+    isbn = "9781450392365",
     series = "CIKM '22"
 }
 ```
