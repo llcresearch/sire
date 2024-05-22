@@ -21,7 +21,7 @@
 </div>
 
 [![version](https://img.shields.io/badge/Version-v0.0.1-green)](https://github.com/EQTPartners/sire/releases/tag/0.0.1)
-[![cikm](https://img.shields.io/badge/CIKM-2022-blueviolet)](https://www.cikm2022.org/)
+[![cikm](https://img.shields.io/badge/CIKM-2022-blueviolet)](http://www.cikmconference.org/2022/)
 [![python](https://img.shields.io/badge/Python-3.7%20%7C%203.8-yellow)](https://www.python.org/doc/versions/)
 [![python](https://img.shields.io/badge/Motherbrain-Research-orange)](https://eqtgroup.com/motherbrain)
 
