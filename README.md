@@ -100,8 +100,12 @@ The corresponding predicted revenue points with 95% confidence interval (`95CI`)
     month = oct,
     year = "2022",
     address = "New York, NY, USA",
+    location = "Atlanta, GA, USA",
     publisher = "Association for Computing Machinery (ACM)",
-    pages = "12 pages",
-    doi = "10.1145/3511808.3557110"
+    pages = "2954–2963",
+    numpages = "10",
+    doi = "10.1145/3511808.3557110",
+    isbn = "9781450392365"
+    series = "CIKM '22"
 }
 ```
